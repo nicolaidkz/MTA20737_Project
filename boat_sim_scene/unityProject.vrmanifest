@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.boat_sim_scene.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\Kasper Amstrup\\Gitkraken projects\\Sailer sim P7\\MTA20737_Project\\boat_sim_scene\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "boat_sim_scene [Testing]"
+        }
+      }
+    }
+  ]
+}
